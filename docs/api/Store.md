@@ -5,7 +5,7 @@ description: 'API > Store: the core Redux store methods'
 ---
 
 # Store
-
+*****************************ghbhiyuhhgtfhjjl*******************************************
 A store holds the whole [state tree](../understanding/thinking-in-redux/Glossary.md#state) of your application.
 The only way to change the state inside it is to dispatch an [action](../understanding/thinking-in-redux/Glossary.md#action) on it, which triggers the [root reducer function](../understanding/thinking-in-redux/Glossary.md#reducer) to calculate the new state.
 
